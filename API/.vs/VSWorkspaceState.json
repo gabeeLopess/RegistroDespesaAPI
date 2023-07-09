@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RegistroDespesaApi",
+    "\\RegistroDespesaApi\\RegistroDespesaApi",
+    "\\RegistroDespesaApi\\RegistroDespesaApi\\Base",
+    "\\RegistroDespesaApi\\RegistroDespesaApi\\Controllers",
+    "\\RegistroDespesaApi\\RegistroDespesaApi\\Migrations"
+  ],
+  "SelectedNode": "\\RegistroDespesaApi\\RegistroDespesaApi\\Controllers\\DespesasController.cs",
+  "PreviewInSolutionExplorer": false
+}

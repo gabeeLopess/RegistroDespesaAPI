@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\estagiario2\\Desktop\\ProjetoRegistroDespesas\\API\\RegistroDespesaApi\\RegistroDespesaApi\\RegistroDespesaApi.csproj": {}
+    "C:\\Users\\ga047\\Desktop\\RegistroDespesas\\RegistroDespesa\\API\\RegistroDespesaApi\\RegistroDespesaApi\\RegistroDespesaApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\estagiario2\\Desktop\\ProjetoRegistroDespesas\\API\\RegistroDespesaApi\\RegistroDespesaApi\\RegistroDespesaApi.csproj": {
+    "C:\\Users\\ga047\\Desktop\\RegistroDespesas\\RegistroDespesa\\API\\RegistroDespesaApi\\RegistroDespesaApi\\RegistroDespesaApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\estagiario2\\Desktop\\ProjetoRegistroDespesas\\API\\RegistroDespesaApi\\RegistroDespesaApi\\RegistroDespesaApi.csproj",
+        "projectUniqueName": "C:\\Users\\ga047\\Desktop\\RegistroDespesas\\RegistroDespesa\\API\\RegistroDespesaApi\\RegistroDespesaApi\\RegistroDespesaApi.csproj",
         "projectName": "RegistroDespesaApi",
-        "projectPath": "C:\\Users\\estagiario2\\Desktop\\ProjetoRegistroDespesas\\API\\RegistroDespesaApi\\RegistroDespesaApi\\RegistroDespesaApi.csproj",
-        "packagesPath": "C:\\Users\\estagiario2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\estagiario2\\Desktop\\ProjetoRegistroDespesas\\API\\RegistroDespesaApi\\RegistroDespesaApi\\obj\\",
+        "projectPath": "C:\\Users\\ga047\\Desktop\\RegistroDespesas\\RegistroDespesa\\API\\RegistroDespesaApi\\RegistroDespesaApi\\RegistroDespesaApi.csproj",
+        "packagesPath": "C:\\Users\\ga047\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ga047\\Desktop\\RegistroDespesas\\RegistroDespesa\\API\\RegistroDespesaApi\\RegistroDespesaApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\estagiario2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ga047\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.2.3, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

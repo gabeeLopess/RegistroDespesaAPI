@@ -1,12 +1,15 @@
-﻿namespace RegistroDespesaApi.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace RegistroDespesaApi.Models
 {
-    public class DespesaModel
+    public class Despesa
     {
-        public int codDespesa { get; set; }
+		[Key]
+		public Guid CodDespesa { get; set; }
         public string NomeDespesa { get; set; }
         public string DescricaoDespesa { get; set; }
         public float Valor { get; set; }
         public DateTime Data { get; set; }
-        public float ValorTotal { get; set; }
+     
     }
 }
